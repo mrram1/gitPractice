@@ -1,0 +1,4 @@
+Git commands practice
+git init
+git add.
+git 
